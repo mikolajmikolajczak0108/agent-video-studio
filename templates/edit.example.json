@@ -1,0 +1,12 @@
+{
+  "name": "first-edit",
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "encoder": "libx264",
+  "clips": [{"file": "00_INBOX/take.mp4", "in": 0, "out": 5, "color": "sdr709", "framing": "crop"}],
+  "music": null,
+  "captions": null,
+  "target_lufs": -14,
+  "true_peak_db": -2
+}
