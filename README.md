@@ -1,6 +1,6 @@
 # Agent Video Studio
 
-A local editing toolkit for AI agents: inspect footage, plan cuts, transcribe speech, render a timeline and check the export. Built around Python, FFmpeg and reviewable JSON plans. Works with Codex, Claude Code or a terminal.
+A local editing toolkit for AI agents: inspect footage, plan cuts, transcribe speech, render a timeline and check the export. Built around Python, FFmpeg and reviewable JSON plans. Works with compatible coding agents or directly from a terminal.
 
 ## What it does
 
